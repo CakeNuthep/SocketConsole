@@ -1,0 +1,10 @@
+D:\application\SocketConsole\SocketConsole\bin\Debug\SocketConsole.exe.config
+D:\application\SocketConsole\SocketConsole\bin\Debug\SocketConsole.exe
+D:\application\SocketConsole\SocketConsole\bin\Debug\SocketConsole.pdb
+D:\application\SocketConsole\SocketConsole\bin\Debug\CommandLine.dll
+D:\application\SocketConsole\SocketConsole\bin\Debug\CommandLine.xml
+D:\application\SocketConsole\SocketConsole\obj\Debug\SocketConsole.csprojAssemblyReference.cache
+D:\application\SocketConsole\SocketConsole\obj\Debug\SocketConsole.csproj.CoreCompileInputs.cache
+D:\application\SocketConsole\SocketConsole\obj\Debug\SocketConsole.csproj.CopyComplete
+D:\application\SocketConsole\SocketConsole\obj\Debug\SocketConsole.exe
+D:\application\SocketConsole\SocketConsole\obj\Debug\SocketConsole.pdb
